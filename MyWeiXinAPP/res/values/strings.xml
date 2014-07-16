@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">微信</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">设置</string>
+    <string name="action_search">搜索</string>
+    <string name="action_new">添加</string>
+    <string name="fragment_chat_title">聊天</string>
+    <string name="fragment_discover_title">发现</string>
+    <string name="fragment_contact_title">通讯录</string>
+
+</resources>
